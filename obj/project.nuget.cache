@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LSlSz65owfMV6yGvC+tsDaBYtdVpzIiWGOEVhFWyQ7mHK19LBLo/OC5GLYegB0pzdOr5MYO+DS+0QIraM9pY/A==",
+  "success": true,
+  "projectFilePath": "/Users/jangbusherpa/pp/appfsharp/appfsharp.fsproj",
+  "expectedPackageFiles": [
+    "/Users/jangbusherpa/.nuget/packages/fsharp.core/7.0.401/fsharp.core.7.0.401.nupkg.sha512"
+  ],
+  "logs": []
+}
